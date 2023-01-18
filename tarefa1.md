@@ -22,3 +22,6 @@ a flag -e indica que é pra executar o ginga no modo de emulação de efeitos se
 a flag -f indica que a aplicação deve ser executada em fullscreen
 
 Caso o resultado da execução não seja o desejado, verifique seu código NCL, atualize-o e execute-o novamente. Lembre-se de medir o tempo gasto para realizar a tarefa, marcando o horário de início e fim.
+  
+  ### Resolução da Tarefa1
+  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/93297020/213293103-5b06bca9-02a5-4bd5-b1be-40231bc8d736.gif)
