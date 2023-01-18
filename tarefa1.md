@@ -24,4 +24,4 @@ a flag -f indica que a aplicação deve ser executada em fullscreen
 Caso o resultado da execução não seja o desejado, verifique seu código NCL, atualize-o e execute-o novamente. Lembre-se de medir o tempo gasto para realizar a tarefa, marcando o horário de início e fim.
   
   ### Resolução da Tarefa1
-  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/93297020/213293103-5b06bca9-02a5-4bd5-b1be-40231bc8d736.gif)
+  ![tarafa1_vídeo](https://user-images.githubusercontent.com/93297020/213296133-49794c9b-bf77-4388-8bf4-7779d29a4b6b.gif)
